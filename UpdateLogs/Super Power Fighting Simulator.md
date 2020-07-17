@@ -1,3 +1,5 @@
+# Super Power Fighting Simulator
+
 Last Updated: 17 July 2020
 
 Update log [v1.2 >> v1.3]:
