@@ -1,14 +1,10 @@
-# Dk4QHub
+Dk4Q Hub Updates:
+# Dk4Q Hub
 Last Updated: 17 July 2020
+- Added Super Power Fighting Simulator [16 July 2020]
 
-Update log [v1.2 >> v1.3]:
-- Added auto stats
-
-Old Update Logs [v1 - v1.2]:
--- v1.2 --
-- Forgot to add golden tree [5M Psychic]
--- v1.1 --
-- Fixed some not working ones
-- Added auto quest
--- v1 --
-- Released
+Game Updates:
+# Super Power Fighting Simulator
+Last Updated: 17 July 2020
+- Read UpdateLogs [17 July 2020]
+- Released [16 July 2020]
