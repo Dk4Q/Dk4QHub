@@ -10,7 +10,7 @@ Last Updated: 19 July 2020
 
 Super Power Fighting Simulator:
 Last Updated: 19 July 2020
-- Read UpdateLogs In Dev [19 July 2020]
+- Read UpdateLogs In Public [19 July 2020]
 - Released [16 July 2020]
 
 # [Dev] Game Updates:
