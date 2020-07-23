@@ -2,8 +2,8 @@ All Old Updates In Here Will Be Removed From Here Other Than Released. If you wo
 
 # Dk4Q Hub
 Dk4Q Hub Updates:
-Last Updated: 19 July 2020
-- Bug Fixes [19 July 2020]
+Last Updated: 23 July 2020
+- Seperated Loader From Games and fixed it 4 times [23 July 2020]
 - Released [16 July 2020]
 
 # [Public] Game Updates:
