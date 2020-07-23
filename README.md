@@ -15,6 +15,7 @@ Last Updated: 19 July 2020
 
 Fart Simulator:
 Last Updated: 23 July 2020
+- Attempted to fix auto collect rings, you will lag for a few seconds [23 July 2020]
 - Released [23 July 2020]
 
 # [Dev] Game Updates
@@ -26,5 +27,5 @@ Last Updated: 18 July 2020
 
 Fart Simulator:
 Last Updated: 23 July 2020
-- - Attempted to fix auto collect rings, you will lag for a few seconds [23 July 2020]
+- Attempted to fix auto collect rings, you will lag for a few seconds [23 July 2020]
 - Released [23 July 2020]
