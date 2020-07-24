@@ -2,8 +2,11 @@
 
 Last Updated: 23 July 2020
 
-Update Log [v1 >> v1.1]:
-- Fixed Auto Collect Ring Crash
+Update Log [v1.1 >> v1.2]:
+- Fixed Collect all chests not working
 
-Old Update Logs [v1]:
-- Released [23 July 2020]
+Old Update Logs [v1 - v1.1]:
+v1.1 [23 July 2020]
+- Fixed collect all rings crashing
+v1 [23 July 2020]
+- Released
