@@ -14,9 +14,9 @@ Last Updated: 19 July 2020
 - Released [16 July 2020]
 
 Fart Simulator:
-Last Updated: 23 July 2020
+Last Updated: 24 July 2020
 - Read UpdateLogs In Public [23 July 2020]
-- Released [23 July 2020]
+- Released [24 July 2020]
 
 # [Dev] Game Updates
 
@@ -26,6 +26,6 @@ Last Updated: 18 July 2020
 - Released [16 July 2020]
 
 Fart Simulator:
-Last Updated: 23 July 2020
-- Read UpdateLogs In Public [23 July 2020]
+Last Updated: 24 July 2020
+- Read UpdateLogs In Public [24 July 2020]
 - Released [23 July 2020]
