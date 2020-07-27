@@ -6,6 +6,10 @@ Last Updated: 23 July 2020
 - Seperated Loader From Games and fixed it 4 times [23 July 2020]
 - Released [16 July 2020]
 
+# Official Showcases By Me
+Super Power Fighting Simulator:
+- https://youtu.be/FFuzFs-SjlI
+
 # [Public] Game Updates
 
 Super Power Fighting Simulator:
