@@ -7,6 +7,7 @@ Last Updated: 23 July 2020
 - Released [16 July 2020]
 
 # Official Showcases By Me
+(Subscribe and like please thanks :D)
 Super Power Fighting Simulator:
 - https://youtu.be/FFuzFs-SjlI
 
