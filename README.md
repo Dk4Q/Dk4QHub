@@ -1,6 +1,6 @@
 Donate to support me:
-Paypal: https://paypal.me/givememoneynowpl0x
-BTC: 1PWBJE7DhL8XZp48ZERS3EkzwTAkoCevZc
+- Paypal: https://paypal.me/givememoneynowpl0x
+- BTC: 1PWBJE7DhL8XZp48ZERS3EkzwTAkoCevZc
 
 All Old Updates In Here Will Be Removed From Here Other Than Released. If you would like to see the old updates, look at UpdateLogs of the game you want.
 
@@ -30,8 +30,8 @@ Last Updated: 24 July 2020
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
-Last Updated: 18 July 2020
-- Read UpdateLogs In Dev [18 July 2020]
+Last Updated: 2 August 2020
+- Read UpdateLogs In Dev [2 August 2020]
 - Released [16 July 2020]
 
 Fart Simulator:
@@ -40,6 +40,6 @@ Last Updated: 24 July 2020
 - Released [23 July 2020]
 
 Mega Noob Simulator:
-Last Updated: 2 August 2020
-- Read UpdateLogs In Dev [2 August 2020]
+Last Updated: 27 July 2020
+- Read UpdateLogs In Dev [27 July 2020]
 - Released [25 July 2020]
