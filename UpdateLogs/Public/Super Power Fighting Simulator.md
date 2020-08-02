@@ -7,6 +7,7 @@ Update log [v1.4 >> v1.5]:
 - Changed Auto Quest to Get/Finish Quests
 - Added Collect Daily/Weekly Quests into Get/Finish Quests
 - Fixed Statue teleport farm not working
+- Added Auto Speed
 
 Old Update Logs [v1 - v1.4]:
 v1.4 [18 July 2020]
