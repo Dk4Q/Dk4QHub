@@ -2,8 +2,8 @@ All Old Updates In Here Will Be Removed From Here Other Than Released. If you wo
 
 # Dk4Q Hub
 Dk4Q Hub Updates:
-Last Updated: 23 July 2020
-- Seperated Loader From Games and fixed it 4 times [23 July 2020]
+Last Updated: 2 August 2020
+- Changed one thing [2 August 2020]
 - Released [16 July 2020]
 
 # Official Showcases By Me
@@ -36,6 +36,6 @@ Last Updated: 24 July 2020
 - Released [23 July 2020]
 
 Mega Noob Simulator:
-Last Updated: 27 July 2020
-- Read UpdateLogs In Dev [27 July 2020]
+Last Updated: 2 August 2020
+- Read UpdateLogs In Dev [2 August 2020]
 - Released [25 July 2020]
