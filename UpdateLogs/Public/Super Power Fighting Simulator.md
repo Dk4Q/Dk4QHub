@@ -1,11 +1,13 @@
 # Super Power Fighting Simulator
 
-Last Updated: 3 August 2020
+Last Updated: 5 August 2020
 
-Update log [v1.5 >> v1.6]:
+# Latest Update log [v1.6 >> v1.7]:
+- Fixed auto speed not working
+- Fixed some quests not working
+
+# v1.6 [3 August 2020]
 - Forgot to add Anubis Quest
-
-Old Update Logs [v1 - v1.5]:
 # v1.5 [2 August 2020]
 - Added Collect All Chests
 - Changed Auto Quest to Get/Finish Quests
