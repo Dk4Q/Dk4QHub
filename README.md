@@ -6,8 +6,8 @@ All Old Updates In Here Will Be Removed From Here Other Than Released. If you wo
 
 # Dk4Q Hub
 Dk4Q Hub Updates:
-Last Updated: 2 August 2020
-- Changed one thing [2 August 2020]
+Last Updated: 24 August 2020
+- Dk4Q Hub is continued again! [24 August 2020]
 - Released [16 July 2020]
 
 # Official Showcases By Me
@@ -30,8 +30,8 @@ Last Updated: 24 July 2020
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
-Last Updated: 5 August 2020
-- Read UpdateLogs In Dev [5 August 2020]
+Last Updated: 24 August 2020
+- Read UpdateLogs In Dev [24 August 2020]
 - Released [16 July 2020]
 
 Fart Simulator:
