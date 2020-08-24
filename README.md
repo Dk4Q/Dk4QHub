@@ -1,5 +1,5 @@
 Donate to support me:
-- Paypal: https://paypal.me/givememoneynowpl0x
+- Paypal: https://paypal.me/Dk4Q
 - BTC: 1PWBJE7DhL8XZp48ZERS3EkzwTAkoCevZc
 
 All Old Updates In Here Will Be Removed From Here Other Than Released. If you would like to see the old updates, look at UpdateLogs of the game you want.
