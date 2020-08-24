@@ -35,8 +35,8 @@ Last Updated: 24 August 2020
 - Released [16 July 2020]
 
 Fart Simulator:
-Last Updated: 24 July 2020
-- Read UpdateLogs In Dev [24 July 2020]
+Last Updated: 24 August 2020
+- Read UpdateLogs In Dev [24 August 2020]
 - Released [23 July 2020]
 
 Mega Noob Simulator:
