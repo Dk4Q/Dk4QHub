@@ -1,11 +1,19 @@
 # Super Power Fighting Simulator
 
-Last Updated: 5 August 2020
+Last Updated: 24 August 2020
 
-# Latest Update log [v1.6 >> v1.7]:
+# Latest Update log [v1.7 >> v1.8]:
+- Finally fixed not loading issues
+- Continued again
+- Updated for new update
+- Collect mini chests
+- Auto open basic chest
+- Collect all chests added in sky chest
+- Removed update logs in the script
+
+# v1.7 [4 August 2020]
 - Fixed auto speed not working
 - Fixed some quests not working
-
 # v1.6 [3 August 2020]
 - Forgot to add Anubis Quest
 # v1.5 [2 August 2020]

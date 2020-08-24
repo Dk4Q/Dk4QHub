@@ -18,8 +18,8 @@ Super Power Fighting Simulator:
 # [Public] Game Updates
 
 Super Power Fighting Simulator:
-Last Updated: 5 August 2020
-- Read UpdateLogs In Public [5 August 2020]
+Last Updated: 24 August 2020
+- Read UpdateLogs In Public [24 August 2020]
 - Released [16 July 2020]
 
 Fart Simulator:
