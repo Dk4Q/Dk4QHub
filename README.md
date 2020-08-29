@@ -13,7 +13,8 @@ Last Updated: 24 August 2020
 # Official Showcases By Me
 (Subscribe and like please thanks :D)
 Super Power Fighting Simulator:
-- https://youtu.be/FFuzFs-SjlI
+- (Outdated) https://youtu.be/FFuzFs-SjlI
+- (Latest) https://youtu.be/tr_QEyoDCvc
 
 # [Public] Game Updates
 
