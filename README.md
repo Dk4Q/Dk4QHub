@@ -30,8 +30,8 @@ Last Updated: 24 August 2020
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
-Last Updated: 24 August 2020
-- Read UpdateLogs In Dev [24 August 2020]
+Last Updated: 29 August 2020
+- Read UpdateLogs In Dev [29 August 2020]
 - Released [16 July 2020]
 
 Fart Simulator:

@@ -1,8 +1,14 @@
 # Super Power Fighting Simulator
 
-Last Updated: 24 August 2020
+Last Updated: 29 August 2020
 
-# Latest Update log [v1.7 >> v1.8]:
+# Latest Update log [v1.8 >> v1.9]:
+- Updated for new update
+- Changed auto open chest to a dropdown and toggle
+- Added auto open tier 2 chest
+- Changed chest name to tier names
+
+# v1.8 [24 August 2020]
 - Finally fixed not loading issues
 - Continued again
 - Updated for new update
@@ -10,7 +16,6 @@ Last Updated: 24 August 2020
 - Auto open basic chest
 - Collect all chests added in sky chest
 - Removed update logs in the script
-
 # v1.7 [4 August 2020]
 - Fixed auto speed not working
 - Fixed some quests not working
