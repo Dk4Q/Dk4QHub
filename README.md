@@ -4,8 +4,7 @@ Donate to support me:
 
 All Old Updates In Here Will Be Removed From Here Other Than Released. If you would like to see the old updates, look at UpdateLogs of the game you want.
 
-# Dk4Q Hub
-Dk4Q Hub Updates:
+# Dk4Q Hub Public Updates
 Last Updated: 24 August 2020
 - Dk4Q Hub is continued again! [24 August 2020]
 - Released [16 July 2020]
@@ -13,8 +12,8 @@ Last Updated: 24 August 2020
 # Official Showcases By Me
 (Subscribe and like please thanks :D)
 Super Power Fighting Simulator:
-- (Outdated) https://youtu.be/FFuzFs-SjlI
-- (Latest) https://youtu.be/tr_QEyoDCvc
+- (v1.4) https://youtu.be/FFuzFs-SjlI
+- (v1.9) https://youtu.be/tr_QEyoDCvc
 
 # [Public] Game Updates
 
@@ -27,6 +26,11 @@ Fart Simulator:
 Last Updated: 24 August 2020
 - Read UpdateLogs In Public [24 August 2020]
 - Released [23 July 2020]
+
+# Dk4Q Hub Dev Updates
+Last Updated: 24 August 2020
+- Fixed randomly saying [Dev] for one part of the loader [24 August 2020]
+- Released [16 July 2020]
 
 # [Dev] Game Updates
 
@@ -44,3 +48,8 @@ Mega Noob Simulator:
 Last Updated: 27 July 2020
 - Read UpdateLogs In Dev [27 July 2020]
 - Released [25 July 2020]
+
+Expedition Antarctica:
+Last Updated: 31 August 2020
+- Read UpdateLogs In Dev [31 August 2020]
+- Released [31 August 2020]
