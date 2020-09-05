@@ -27,6 +27,11 @@ Last Updated: 24 August 2020
 - Read UpdateLogs In Public [24 August 2020]
 - Released [23 July 2020]
 
+Expedition Antarctica:
+Last Updated: 5 September 2020
+- Read UpdateLogs In Dev [5 September 2020]
+- Released [5 September 2020]
+
 # Dk4Q Hub Dev Updates
 Last Updated: 1 September 2020
 - Changed UI from pastebin to github due to people having pastebin blocked [1 September 2020]
