@@ -50,6 +50,6 @@ Last Updated: 27 July 2020
 - Released [25 July 2020]
 
 Expedition Antarctica:
-Last Updated: 31 August 2020
-- Read UpdateLogs In Dev [31 August 2020]
+Last Updated: 5 September 2020
+- Read UpdateLogs In Dev [5 September 2020]
 - Released [31 August 2020]
