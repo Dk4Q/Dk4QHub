@@ -14,6 +14,8 @@ Last Updated: 1 September 2020
 Super Power Fighting Simulator:
 - (v1.4) https://youtu.be/FFuzFs-SjlI
 - (v1.9) https://youtu.be/tr_QEyoDCvc
+Expedition Antarctica:
+ - (v1.1) https://youtu.be/fAAUN_btVfw
 
 # [Public] Game Updates
 
