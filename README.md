@@ -10,12 +10,9 @@ Last Updated: 1 September 2020
 - Released [16 July 2020]
 
 # Official Showcases By Me
-(Subscribe and like please thanks :D)
-Super Power Fighting Simulator:
-- (v1.4) https://youtu.be/FFuzFs-SjlI
-- (v1.9) https://youtu.be/tr_QEyoDCvc
-Expedition Antarctica:
- - (v1.1) https://youtu.be/fAAUN_btVfw
+- Super Power Fighting Simulator: https://youtu.be/FFuzFs-SjlI (v1.4)
+- Super Power Fighting Simulator: https://youtu.be/tr_QEyoDCvc (v1.9)
+- Expedition Antarctica: https://youtu.be/fAAUN_btVfw (v1.1)
 
 # [Public] Game Updates
 
