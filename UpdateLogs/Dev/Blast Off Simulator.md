@@ -1,6 +1,6 @@
 # Expedition Antarctica
 
-Latest Updated: 14 September 2020
+Latest Updated: 15 September 2020
 
 # Latest Update Log [v1 >> v1.1]
 - Added Teleports To Fuel Amount due to reasons that is specified in the discord server
