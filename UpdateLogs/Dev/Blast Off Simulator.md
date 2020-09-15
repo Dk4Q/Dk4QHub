@@ -1,4 +1,4 @@
-# Expedition Antarctica
+# Blast Off Simulator
 
 Latest Updated: 15 September 2020
 
