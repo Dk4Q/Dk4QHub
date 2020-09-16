@@ -2,7 +2,10 @@
 
 Latest Updated: 16 September 2020
 
-# Latest Update Log [v1.1 >> v1.2]
+# Latest Update Log [v1.2 >> v1.2a]
+- Fixed some teleport amounts being broken
+
+# v1.2 [16 September 2020]
 - Fixed Fuel Processor Amount Stats
 - Fixed Auto Collect Fuel being broken by Fuel Processor Amount Stats
 - Fixed Auto Sell Fuel being broken by Fuel Processor Amount Stats
