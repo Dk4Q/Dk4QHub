@@ -13,6 +13,7 @@ Last Updated: 1 September 2020
 - Super Power Fighting Simulator: https://youtu.be/FFuzFs-SjlI (v1.4)
 - Super Power Fighting Simulator: https://youtu.be/tr_QEyoDCvc (v1.9)
 - Expedition Antarctica: https://youtu.be/fAAUN_btVfw (v1.1)
+- 3-2-1 Blast Off Simulator: https://youtu.be/VVjYU2l4xRI (v1.2a)
 
 # [Public] Game Updates
 
