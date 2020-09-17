@@ -28,8 +28,13 @@ Last Updated: 24 August 2020
 
 Expedition Antarctica:
 Last Updated: 5 September 2020
-- Read UpdateLogs In Dev [5 September 2020]
+- Read UpdateLogs In Public [5 September 2020]
 - Released [5 September 2020]
+
+Blast Off Simulator:
+Last Updated: 17 September 2020
+- Read UpdateLogs In Public [17 September 2020]
+- Released [17 September 2020]
 
 # Dk4Q Hub Dev Updates
 Last Updated: 1 September 2020
