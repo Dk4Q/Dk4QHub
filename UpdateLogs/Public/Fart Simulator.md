@@ -1,8 +1,11 @@
 # Fart Simulator
 
-Last Updated: 24 August 2020
+Last Updated: 23 September 2020
 
-# Latest Update Log [v1.2 >> v1.3]:
+# Latest Update Log [v1.3 >> v1.3a]:
+- Fixed [Event] Chef Special Egg opening Hamburg Egg instead
+
+# v1.3 [24 August 2020]
 - Removed loop x3 open
 - Removed update logs in script
 - Updated for new event update
