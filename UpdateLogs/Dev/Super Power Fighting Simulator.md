@@ -1,8 +1,13 @@
 # Super Power Fighting Simulator
 
-Last Updated: 21 September 2020
+Last Updated: 27 September 2020
 
-# Latest Update log [v1.9 >> v2]:
+# Latest Update log [v2 >> v2.1]:
+- Updated for new update
+- Added Auto Open Tier 4 Chest
+- Added Auto Transform (useless)
+
+# v2 [21 September 2020]
 - Updated for new update
 - Added Auto Open Tier 3 Chest (faster than the free auto open ofc)
 - Added Auto Rank Up
