@@ -12,7 +12,6 @@ Last Updated: 27 September 2020
 - Added Auto Open Tier 3 Chest (faster than the free auto open ofc)
 - Added Auto Rank Up
 - Added Auto Buy Multipliers
-
 # v1.9 [29 August 2020]
 - Updated for new update
 - Changed auto open chest to a dropdown and toggle
