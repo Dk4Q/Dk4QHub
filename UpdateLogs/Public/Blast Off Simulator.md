@@ -6,6 +6,7 @@ Latest Updated: 2 October 2020
 - Updated for new update
 - Added teleport for new island
 - Added collect the newest island prize
+- Spam Restrict Pad Access
 - Bypass Pad Access Restricted Pads
 
 # v1.2a [16 September 2020]
