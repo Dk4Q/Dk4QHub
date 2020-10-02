@@ -65,6 +65,6 @@ Last Updated: 5 September 2020
 - Released [31 August 2020]
 
 Blast Off Simulator:
-Last Updated: 16 September 2020
-- Read UpdateLogs In Dev [16 September 2020]
+Last Updated: 2 October 2020
+- Read UpdateLogs In Dev [2 October 2020]
 - Released [14 September 2020]
