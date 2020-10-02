@@ -33,8 +33,8 @@ Last Updated: 5 September 2020
 - Released [5 September 2020]
 
 Blast Off Simulator:
-Last Updated: 17 September 2020
-- Read UpdateLogs In Public [17 September 2020]
+Last Updated: 2 October 2020
+- Read UpdateLogs In Public [2 October 2020]
 - Released [17 September 2020]
 
 # Dk4Q Hub Dev Updates

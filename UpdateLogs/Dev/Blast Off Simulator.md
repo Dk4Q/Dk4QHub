@@ -1,6 +1,6 @@
 # Blast Off Simulator
 
-Latest Updated: 16 September 2020
+Latest Updated: 2 October 2020
 
 # Latest Update Log [v1.2a >> v1.3]
 - Updated for new update

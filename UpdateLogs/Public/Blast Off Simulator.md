@@ -1,10 +1,15 @@
 # Blast Off Simulator
 
-Latest Updated: 17 September 2020
+Latest Updated: 2 October 2020
 
-# Latest Update Log [v1.2 >> v1.2a]
+# Latest Update Log [v1.2a >> v1.3]
+- Updated for new update
+- Added teleport for new island
+- Added collect the newest island prize
+- Bypass Pad Access Restricted Pads
+
+# v1.2a [16 September 2020]
 - Fixed some teleport amounts being broken
-- Official Release For Public
 
 # v1.2 [16 September 2020]
 - Fixed Fuel Processor Amount Stats
