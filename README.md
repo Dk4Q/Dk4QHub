@@ -14,12 +14,13 @@ Last Updated: 1 September 2020
 - Super Power Fighting Simulator: https://youtu.be/tr_QEyoDCvc (v1.9)
 - Expedition Antarctica: https://youtu.be/fAAUN_btVfw (v1.1)
 - 3-2-1 Blast Off Simulator: https://youtu.be/VVjYU2l4xRI (v1.2a)
+- 3-2-1 Blast Off Simulator: https://youtu.be/I5c52vwO_As (v1.3)
 
 # [Public] Game Updates
 
 Super Power Fighting Simulator:
-Last Updated: 27 September 2020
-- Read UpdateLogs In Public [27 September 2020]
+Last Updated: 17 October 2020
+- Read UpdateLogs In Public [17 October 2020]
 - Released [16 July 2020]
 
 Fart Simulator:
