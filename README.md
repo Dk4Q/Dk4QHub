@@ -45,19 +45,14 @@ Last Updated: 1 September 2020
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
-Last Updated: 27 September 2020
-- Read UpdateLogs In Dev [27 September 2020]
+Last Updated: 17 October 2020
+- Read UpdateLogs In Dev [17 October 2020]
 - Released [16 July 2020]
 
 Fart Simulator:
 Last Updated: 23 September 2020
 - Read UpdateLogs In Dev [23 September 2020]
 - Released [23 July 2020]
-
-[Discontinued] Mega Noob Simulator:
-Last Updated: 27 July 2020
-- Read UpdateLogs In Dev [27 July 2020]
-- Released [25 July 2020]
 
 Expedition Antarctica:
 Last Updated: 5 September 2020
@@ -68,3 +63,8 @@ Blast Off Simulator:
 Last Updated: 2 October 2020
 - Read UpdateLogs In Dev [2 October 2020]
 - Released [14 September 2020]
+
+[Discontinued] Mega Noob Simulator:
+Last Updated: 27 July 2020
+- Read UpdateLogs In Dev [27 July 2020]
+- Released [25 July 2020]

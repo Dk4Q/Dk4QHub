@@ -1,8 +1,14 @@
 # Super Power Fighting Simulator
 
-Last Updated: 27 September 2020
+Last Updated: 17 October 2020
 
 # Latest Update log [v2 >> v2.1]:
+- Updated for new update
+- Added Auto Open Halloween Chest
+- Removed Get/Finish Quests cause broken
+- Added collect halloween chest in Collect All Chests
+
+# v2.1 [27 September 2020]
 - Updated for new update
 - Added Auto Open Tier 4 Chest
 - Added Auto Transform (useless)
