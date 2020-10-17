@@ -2,7 +2,7 @@
 
 Last Updated: 17 October 2020
 
-# Latest Update log [v2 >> v2.1]:
+# Latest Update log [v2.1 >> v2.2]:
 - Updated for new update
 - Added Auto Open Halloween Chest
 - Removed Get/Finish Quests cause broken
