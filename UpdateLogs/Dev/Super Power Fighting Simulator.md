@@ -1,8 +1,12 @@
 # Super Power Fighting Simulator
 
-Last Updated: 17 October 2020
+Last Updated: 18 October 2020
 
-# Latest Update log [v2.1 >> v2.2]:
+# Latest Update log [v2.2 >> v2.2a]:
+- Added seperate button to collect Evil Pumpkins even though pressing collect all mini-chests collects it as well
+- Added Collect All Both (basically explained above)
+
+# v2.2 [17 October 2020]
 - Updated for new update
 - Added Auto Open Halloween Chest
 - Removed Get/Finish Quests cause broken
