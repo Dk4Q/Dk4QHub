@@ -20,52 +20,57 @@ Last Updated: 1 September 2020
 
 Super Power Fighting Simulator:
 Last Updated: 18 October 2020
-- Read UpdateLogs In Public [18 October 2020]
+- Read UpdateLogs In Public
 - Released [16 July 2020]
 
 Fart Simulator:
 Last Updated: 23 September 2020
-- Read UpdateLogs In Public [23 September 2020]
+- Read UpdateLogs In Public
 - Released [23 July 2020]
 
 Expedition Antarctica:
 Last Updated: 5 September 2020
-- Read UpdateLogs In Public [5 September 2020]
+- Read UpdateLogs In Public
 - Released [5 September 2020]
 
 Blast Off Simulator:
 Last Updated: 22 October 2020
-- Read UpdateLogs In Public [22 October 2020]
+- Read UpdateLogs In Public
 - Released [17 September 2020]
 
 # Dk4Q Hub Dev Updates
 Last Updated: 1 September 2020
-- Changed UI from pastebin to github due to people having pastebin blocked [1 September 2020]
+- Changed UI from pastebin to github due to people having pastebin blocked
 - Released [16 July 2020]
 
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
 Last Updated: 18 October 2020
-- Read UpdateLogs In Dev [18 October 2020]
+- Read UpdateLogs In Dev
 - Released [16 July 2020]
 
 Fart Simulator:
 Last Updated: 23 September 2020
-- Read UpdateLogs In Dev [23 September 2020]
+- Read UpdateLogs In Dev
 - Released [23 July 2020]
 
 Expedition Antarctica:
 Last Updated: 5 September 2020
-- Read UpdateLogs In Dev [5 September 2020]
+- Read UpdateLogs In Dev
 - Released [31 August 2020]
 
 Blast Off Simulator:
 Last Updated: 22 October 2020
-- Read UpdateLogs In Dev [22 October 2020]
+- Read UpdateLogs In Dev
 - Released [14 September 2020]
+
+Coins Hero Simulator:
+Last Updated: 5 November 2020
+- Read UpdateLogs In Dev
+- Released [5 November 2020]
 
 [Discontinued] Mega Noob Simulator:
 Last Updated: 27 July 2020
-- Read UpdateLogs In Dev [27 July 2020]
+- Read UpdateLogs In Dev
 - Released [25 July 2020]
