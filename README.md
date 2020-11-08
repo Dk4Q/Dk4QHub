@@ -38,10 +38,10 @@ Last Updated: 22 October 2020
 - Read UpdateLogs In Public
 - Released [17 September 2020]
 
-# Dk4Q Hub Dev Updates
-Last Updated: 1 September 2020
-- Changed UI from pastebin to github due to people having pastebin blocked
-- Released [16 July 2020]
+Coins Hero Simulator:
+Last Updated: 8 November 2020
+- Read UpdateLogs In Public
+- Released [8 November 2020]
 
 # [Dev] Game Updates
 
