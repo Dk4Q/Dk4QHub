@@ -1,8 +1,14 @@
 # Super Power Fighting Simulator
 
-Last Updated: 18 October 2020
+Last Updated: 16 November 2020
 
-# Latest Update log [v2.2 >> v2.2a]:
+# Latest Update log [v2.2a >> v2.3]:
+- Added auto collect goals
+- Added auto open Light & Dark Chest
+- Renamed the Tier 1,2,3,4 chests to their actual names like Alien Chest
+- Added auto fusion
+
+# v2.2a [18 October 2020]
 - Added seperate button to collect Evil Pumpkins even though pressing collect all mini-chests collects it as well
 - Added Collect All Both (basically explained above)
 
