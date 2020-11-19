@@ -51,7 +51,7 @@ Last Updated: 16 November 2020
 - Released [16 July 2020]
 
 Fart Simulator:
-Last Updated: 23 September 2020
+Last Updated: 20 November 2020
 - Read UpdateLogs In Dev
 - Released [23 July 2020]
 
