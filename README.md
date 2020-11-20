@@ -5,8 +5,8 @@ Donate to support me:
 All Old Updates In Here Will Be Removed From Here Other Than Released. If you would like to see the old updates, look at UpdateLogs of the game you want.
 
 # Dk4Q Hub Public Updates
-Last Updated: 1 September 2020
-- Changed UI from pastebin to github due to people having pastebin blocked [1 September 2020]
+Last Updated: 20 November 2020
+- Removed update checker
 - Released [16 July 2020]
 
 # Official Showcases By Me
