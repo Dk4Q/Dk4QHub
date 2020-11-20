@@ -12,6 +12,7 @@ Last Updated: 20 November 2020
 - Added 2 new eggs into Auto Egg (Captain's & Tropical)
 - Renamed Auto Collect Coins/Gems v1 into v2 and Auto Collect Coins/Gems v2 into v1
 - A small change in Auto Egg
+- Added Infinite Jumps
 - Updated discord links in Misc tab
 
 # v1.3
