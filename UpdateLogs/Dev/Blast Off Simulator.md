@@ -1,8 +1,11 @@
 # Blast Off Simulator
 
-Latest Updated: 22 October 2020
+Latest Updated: 21 November 2020
 
-# Latest Update Log [v1.3 >> v1.4]
+# Latest Update Log [v1.4 >> v1.4a]
+- Removed event stuff
+
+# v1.4
 - Updated for new halloween update
 - Added a seperate button to collect the maze prizes (only actual prizes and not tricks)
 - Added halloween island teleport
