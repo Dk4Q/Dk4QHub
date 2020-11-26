@@ -4,9 +4,9 @@ Donate to support me:
 
 All Old Updates In Here Will Be Removed From Here Other Than Released. If you would like to see the old updates, look at UpdateLogs of the game you want.
 
-# Dk4Q Hub Public Updates
-Last Updated: 20 November 2020
-- Removed update checker
+# Dk4Q Hub Updates
+Last Updated: 26 November 2020
+- New loader!
 - Released [16 July 2020]
 
 # Official Showcases By Me
