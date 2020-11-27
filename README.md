@@ -10,11 +10,13 @@ Last Updated: 26 November 2020
 - Released [16 July 2020]
 
 # Official Showcases By Me
+- Coins Hero Simulator: v1 | 3-2-1 Blast Off Simulator: v1.4a | Expedition Antarctica: v1.1 | Fart Simulator: v1.4 | Super Power Fighting Simulator: v2.3: https://youtu.be/B0tKJWH5rVs
 - Super Power Fighting Simulator: https://youtu.be/FFuzFs-SjlI (v1.4)
 - Super Power Fighting Simulator: https://youtu.be/tr_QEyoDCvc (v1.9)
 - Expedition Antarctica: https://youtu.be/fAAUN_btVfw (v1.1)
 - 3-2-1 Blast Off Simulator: https://youtu.be/VVjYU2l4xRI (v1.2a)
 - 3-2-1 Blast Off Simulator: https://youtu.be/I5c52vwO_As (v1.3)
+- Coins Hero Simulator: https://youtu.be/5pH-g96x8oc (v1)
 
 # [Public] Game Updates
 
@@ -69,6 +71,11 @@ Coins Hero Simulator:
 Last Updated: 5 November 2020
 - Read UpdateLogs In Dev
 - Released [5 November 2020]
+
+generic roleplay gam:
+Last Updated: 27 November 2020
+- Read UpdateLogs In Dev
+- Released [27 November 2020]
 
 [Discontinued] Mega Noob Simulator:
 Last Updated: 27 July 2020
