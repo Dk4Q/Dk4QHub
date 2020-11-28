@@ -5,8 +5,8 @@ Donate to support me:
 All Old Updates In Here Will Be Removed From Here Other Than Released. If you would like to see the old updates, look at UpdateLogs of the game you want.
 
 # Dk4Q Hub Updates
-Last Updated: 26 November 2020
-- New loader!
+Last Updated: 28 November 2020
+- Small change in loader
 - Released [16 July 2020]
 
 # Official Showcases By Me
@@ -44,6 +44,11 @@ Coins Hero Simulator:
 Last Updated: 8 November 2020
 - Read UpdateLogs In Public
 - Released [8 November 2020]
+
+Sorcerer Fighting Simulator:
+Last Updated: 28 November 2020
+- Read UpdateLogs In Public
+- Released [28 November 2020]
 
 # [Dev] Game Updates
 
