@@ -77,6 +77,11 @@ Last Updated: 27 November 2020
 - Read UpdateLogs In Dev
 - Released [27 November 2020]
 
+Sorcerer Fighting Simulator:
+Last Updated: 28 November 2020
+- Read UpdateLogs In Dev
+- Released [28 November 2020]
+
 [Discontinued] Mega Noob Simulator:
 Last Updated: 27 July 2020
 - Read UpdateLogs In Dev
