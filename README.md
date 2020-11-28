@@ -17,6 +17,7 @@ Last Updated: 28 November 2020
 - 3-2-1 Blast Off Simulator: https://youtu.be/VVjYU2l4xRI (v1.2a)
 - 3-2-1 Blast Off Simulator: https://youtu.be/I5c52vwO_As (v1.3)
 - Coins Hero Simulator: https://youtu.be/5pH-g96x8oc (v1)
+- Sorcerer Fighting Simulator: https://youtu.be/1hgTXF2ulpQ (v1)
 
 # [Public] Game Updates
 
