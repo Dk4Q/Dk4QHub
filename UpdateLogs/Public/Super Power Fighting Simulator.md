@@ -1,8 +1,21 @@
 # Super Power Fighting Simulator
 
-Last Updated: 16 November 2020
+Last Updated: 13 December 2020
 
-# Latest Update log [v2.2a >> v2.3]:
+# Latest Update log [v2.3 >> v2.4]:
+- Updated for new update info below
+- Removed Collect All Evil Pumpkins
+- Added Collect All Presents/Secret Gifts
+- Updated golden and group chest locations for collect all chests
+- Removed halloween chest for collect all chests
+- Added winter chest for collect all chests
+- Added auto open festive chest
+- Added Auto Upgrade Chest Luck Multiplier
+- Added Auto Upgrade Chest Speed Multiplier
+- Removed prison locations and replaced it with robot locations (autofarm with teleports)
+- Fixed auto speed (still requires water walker)
+
+# v2.3 [16 November 2020]
 - Added auto collect goals
 - Added auto open Light & Dark Chest
 - Renamed the Tier 1,2,3,4 chests to their actual names like Alien Chest
