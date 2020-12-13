@@ -47,7 +47,7 @@ Last Updated: 8 November 2020
 - Released [8 November 2020]
 
 Sorcerer Fighting Simulator:
-Last Updated: 28 November 2020
+Last Updated: 13 December 2020
 - Read UpdateLogs In Public
 - Released [28 November 2020]
 
