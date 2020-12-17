@@ -1,11 +1,14 @@
 # Blast Off Simulator
 
-Latest Updated: 21 November 2020
+Latest Updated: 17 December 2020
 
-# Latest Update Log [v1.4 >> v1.4a]
+# Latest Update Log [v1.4a >> v1.4b]
+- Added collect gift (santa obby) into collect all chests
+
+# v1.4a [21 November 2020]
 - Removed event stuff
 
-# v1.4
+# v1.4 [UNKNOWN]
 - Updated for new halloween update
 - Added a seperate button to collect the maze prizes (only actual prizes and not tricks)
 - Added halloween island teleport
