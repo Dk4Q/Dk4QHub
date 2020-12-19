@@ -1,10 +1,12 @@
 # Blast Off Simulator
 
-Latest Updated: 16 December 2020
+Latest Updated: 19 December 2020
 
-# Latest Update Log [v1.4a >> v1.4b]
+# Latest Update Log [v1.4b >> v1.5]
+- Updated for new update
+
+# v1.4b [15 December 2020]
 - Added collect gift (santa obby) into collect all chests
-
 # v1.4a [21 November 2020]
 - Removed event stuff
 
