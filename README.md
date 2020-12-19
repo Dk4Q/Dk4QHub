@@ -56,6 +56,11 @@ Last Updated: 19 December 2020
 - Read UpdateLogs In Public
 - Released [19 December 2020]
 
+Area 47
+Last Updated: 19 December 2020
+- Read UpdateLogs In Public
+- Released [19 December 2020]
+
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
