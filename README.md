@@ -51,6 +51,11 @@ Last Updated: 13 December 2020
 - Read UpdateLogs In Public
 - Released [28 November 2020]
 
+The Grand Crossing:
+Last Updated: 19 December 2020
+- Read UpdateLogs In Public
+- Released [19 December 2020]
+
 # [Dev] Game Updates
 
 Super Power Fighting Simulator:
