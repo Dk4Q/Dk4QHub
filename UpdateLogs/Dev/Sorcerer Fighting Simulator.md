@@ -2,7 +2,7 @@
 
 Last Updated: 5 January 2021
 
-# Latest Update Log [v1 >> v1.1]:
+# Latest Update Log [v1.1 >> v1.2]:
 - Updated for new update
 - Added new teleports for new areas
 - Added Earth into acid teleports
