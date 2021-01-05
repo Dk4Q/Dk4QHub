@@ -1,8 +1,14 @@
 # Sorcerer Fighting Simulator
 
-Last Updated: 13 December 2020
+Last Updated: 5 January 2021
 
 # Latest Update Log [v1 >> v1.1]:
+- Updated for new update
+- Added new teleports for new areas
+- Added Earth into acid teleports
+- Added new codes
+
+# v1.1 [13 December 2020]
 - Updated for new update info below
 - Updated collect all codes with more codes
 - Added auto upgrade acid multiplier
