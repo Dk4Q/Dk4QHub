@@ -104,9 +104,14 @@ Last Updated: 15 December 2020
 - Released [15 December 2020]
 
 Area-47:
-Last updated: 19 December 2020
+Last Updated: 19 December 2020
 - Read UpdateLogs In Dev
 - Released [19 December 2020]
+
+Science Simulator
+Last Updated: 6 January 2021
+- Read UpdateLogs In Dev
+- Released [6 January 2021]
 
 [Discontinued] Mega Noob Simulator:
 Last Updated: 27 July 2020
