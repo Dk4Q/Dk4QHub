@@ -18,8 +18,10 @@ Last Updated: 28 November 2020
 - 3-2-1 Blast Off Simulator: https://youtu.be/I5c52vwO_As (v1.3)
 - Coins Hero Simulator: https://youtu.be/5pH-g96x8oc (v1)
 - Sorcerer Fighting Simulator: https://youtu.be/1hgTXF2ulpQ (v1)
+- Area-47: https://youtu.be/nOhTIP9Z8Eg (v1.1)
+- Science Simulator: https://youtu.be/UQ0wENaSJxg (v1)
 
-# [Public] Game Updates
+# Game Updates
 
 Super Power Fighting Simulator:
 Last Updated: 13 December 2020
@@ -65,60 +67,3 @@ Science Simulator:
 Last Updated: 6 January 2021
 - Read UpdateLogs In Public
 - Released [6 January 2021]
-
-# [Dev] Game Updates
-
-Super Power Fighting Simulator:
-Last Updated: 13 December 2020
-- Read UpdateLogs In Dev
-- Released [16 July 2020]
-
-Fart Simulator:
-Last Updated: 20 November 2020
-- Read UpdateLogs In Dev
-- Released [23 July 2020]
-
-Expedition Antarctica:
-Last Updated: 5 September 2020
-- Read UpdateLogs In Dev
-- Released [31 August 2020]
-
-Blast Off Simulator:
-Last Updated: 19 December 2020
-- Read UpdateLogs In Dev
-- Released [14 September 2020]
-
-Coins Hero Simulator:
-Last Updated: 5 November 2020
-- Read UpdateLogs In Dev
-- Released [5 November 2020]
-
-generic roleplay gam:
-Last Updated: 27 November 2020
-- Read UpdateLogs In Dev
-- Released [27 November 2020]
-
-Sorcerer Fighting Simulator:
-Last Updated: 5 January 2021
-- Read UpdateLogs In Dev
-- Released [28 November 2020]
-
-The Grand Crossing:
-Last Updated: 15 December 2020
-- Read UpdateLogs In Dev
-- Released [15 December 2020]
-
-Area-47:
-Last Updated: 19 December 2020
-- Read UpdateLogs In Dev
-- Released [19 December 2020]
-
-Science Simulator
-Last Updated: 6 January 2021
-- Read UpdateLogs In Dev
-- Released [6 January 2021]
-
-[Discontinued] Mega Noob Simulator:
-Last Updated: 27 July 2020
-- Read UpdateLogs In Dev
-- Released [25 July 2020]
