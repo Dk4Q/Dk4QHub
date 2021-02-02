@@ -69,6 +69,6 @@ Last Updated: 6 January 2021
 - Released [6 January 2021]
 
 Power Simulator 2:
-Last Updated: 23 January 2021
+Last Updated: 2 February 2021
 - Read UpdateLogs In Public
 - Released [23 January 2021]
