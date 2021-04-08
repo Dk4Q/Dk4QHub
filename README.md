@@ -25,50 +25,55 @@ Last Updated: 28 November 2020
 
 Super Power Fighting Simulator:
 Last Updated: 13 December 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [16 July 2020]
+
+Super Power Fighting Simulator [Outer Space]:
+Last Updated: 8 April 2021
+- Read UpdateLogs
+- Released [8 April 2021]
 
 Fart Simulator:
 Last Updated: 20 November 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [23 July 2020]
 
 Expedition Antarctica:
 Last Updated: 5 September 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [5 September 2020]
 
 Blast Off Simulator:
 Last Updated: 19 December 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [17 September 2020]
 
 Coins Hero Simulator:
 Last Updated: 8 November 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [8 November 2020]
 
 Sorcerer Fighting Simulator:
 Last Updated: 5 January 2021
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [28 November 2020]
 
 The Grand Crossing:
 Last Updated: 19 December 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [19 December 2020]
 
 Area 47:
 Last Updated: 19 December 2020
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [19 December 2020]
 
 Science Simulator:
 Last Updated: 6 January 2021
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [6 January 2021]
 
 Power Simulator 2:
 Last Updated: 2 February 2021
-- Read UpdateLogs In Public
+- Read UpdateLogs
 - Released [23 January 2021]
